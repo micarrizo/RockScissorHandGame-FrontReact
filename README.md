@@ -1,9 +1,10 @@
-This is the front of the Game made in React and Redux
+**This is the front of the Game made in React and Redux**
 
 Once you download this project, you just to run these command lines.
 
 to install node_modules
 - npm install
+
 And then to run the front
 - npm start
 
